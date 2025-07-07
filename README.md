@@ -13,10 +13,6 @@
 - 🎯 **Interactive UI** using IPyWidgets in Google Colab
 - 📊 **Visualizations** for bit transformations and permutation mappings
 
-# 🔐 Electron-Cipher
-
-> A hybrid encryption system combining orbital logic with Feistel networks and AES to create a secure, nonlinear, and educational cipher system.
-
 ---
 
 ## 🌟 Highlights
