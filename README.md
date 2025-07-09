@@ -67,14 +67,11 @@
 
 ## 🙋‍♀️ Author
 
-**Siddhi Mahajan**  
-🔗 [GitHub](https://github.com/SiddhiMahajan594)
+**Siddhi Mahajan**  🔗 [GitHub](https://github.com/SiddhiMahajan594)
 
-**Parth Lohia**
-🔗 [GitHub](https://github.com/lohiaparth)
+**Parth Lohia**  🔗 [GitHub](https://github.com/lohiaparth)
 
-**Ayush Kothari**
-🔗 [GitHub](https://github.com/ayushkothariii)
+**Ayush Kothari**  🔗 [GitHub](https://github.com/ayushkothariii)
 
 ---
 
